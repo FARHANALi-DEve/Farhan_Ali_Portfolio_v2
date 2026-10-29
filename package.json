@@ -1,0 +1,1 @@
+{"name":"farhan-ali-reference-3d-studio","version":"2.0.0","private":true,"description":"Original MIT-licensed Henry Heffernan 3D asset-based portfolio customized for Farhan Ali","scripts":{"start":"node server.cjs"},"dependencies":{"three":"0.160.1"}}
